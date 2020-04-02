@@ -11,9 +11,11 @@
 
 #>
 
+# Definition de la fonction
 function Stagiaire {
 
 }
 
+# Appel de la fonction
 Stagiaire
 
