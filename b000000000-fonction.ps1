@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Ce script est une laboratoire Powershell
+    Ce script est un laboratoire Powershell
 
 .DESCRIPTION
     Ce script est utilisé pour le laboratoire de programmation en Powershell.
@@ -11,4 +11,9 @@
 
 #>
 
-Write-Host "Bonjour Monde"
+function Stagiaire {
+
+}
+
+Stagiaire
+
