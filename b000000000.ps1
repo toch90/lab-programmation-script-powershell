@@ -1,29 +1,14 @@
 <#
 .SYNOPSIS
-    This script/function does - What?
+    Ce script est une laboratoire Powershell
 
 .DESCRIPTION
-    A more detailed description of why and how the function works.
-
-.PARAMETER DemoParam1
-    The parameter DemoParam1 is used to define the value of blah and also blah.
-
-.PARAMETER DemoParam2
-    The parameter DemoParam2 is used to define the value of blah and also blah.
-
-.EXAMPLE
-    The example below does blah
-    PS C:\> Example
-
-.EXAMPLE
-    Another example
+    Ce script est utilisé pour le laboratoire de programmation en Powershell.
 
 .NOTES
-    Author: Name
-    Last Edit: yyyy-mm-dd
-    Version 1.0 - initial release of blah
-    Version 1.1 - update for blah
+    Author: CollegeBoreal
+    Derniere mise à jour: yyyy-mm-dd
 
 #>
 
-Write-Host "Hello World"
+Write-Host "Bonjour Monde"
